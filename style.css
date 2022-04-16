@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+
+  padding: 2% 8%;
+}
+
+.item {
+  display: inline;
+  margin-left: 1.6rem;
+}
+
+.option {
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.firsTitle {
+  font-size: 1.2rem;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.second-Title {
+  font-size: 2.2rem;
+}
+
+.titles {
+  padding: 5%;
+}
+
+.button-knowUs {
+  padding: 0% 8%;
+}
+.knowUs {
+  background-color: red;
+  border: none;
+  font-size: 1.8rem;
+  padding: 15px;
+}
+
+.firstSection {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div_secondSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+.secondText {
+  padding: 5% 4%;
+}
+
+.thirdTitle {
+  font-size: 1.8rem;
+  color: black;
+}
+
+.paragraph {
+  margin-top: 4%;
+  color: black;
+  font-size: 1.1rem;
+}
+
+.imageSecond {
+  border: 10px;
+  padding: 5%;
+}
+
+.pictureOne {
+  height: 200px;
+  width: 300px;
+}
