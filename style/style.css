@@ -50,7 +50,7 @@
 
 .firstSection {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(hero.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../img/hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
